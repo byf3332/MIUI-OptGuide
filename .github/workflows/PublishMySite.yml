@@ -4,8 +4,9 @@ on:
     branches: [ 'main' ]
 
 permissions:
-  main: read
-  gh-pages: write
+  contents: read
+  pages: write
+  id-token: write
 
 jobs:
   deploy:
