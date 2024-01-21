@@ -4,7 +4,7 @@ on:
     branches: [ 'main' ]
 
 permissions:
-  contents: read
+  main: read
   gh-pages: write
 
 jobs:
