@@ -46,8 +46,6 @@ theme:
     repo: fontawesome/brands/github
 
 plugins:
-  - search:
-      seperator: '[\s\u200b\-]'
   # - social:
   #    cards_font: 'Noto Sans SC'
   - git-revision-date-localized:
