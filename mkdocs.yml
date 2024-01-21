@@ -79,6 +79,3 @@ markdown_extensions:
       permalink_title: '本栏链接'
       permalink: true
   - tables
-  
-extra_javascript:
-  - javascripts/referrer-detect.js
